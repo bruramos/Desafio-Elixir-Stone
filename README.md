@@ -4,9 +4,9 @@ Resolução do exercício de desafio proposto em linguagem Python.
 ## Como criar as listas
 - Lista de Itens:
 
-  Criar a lista de itens no formato de matriz, seguindo o exemplo abaixo (também comentado no próprio código)
+  Criar a lista de itens no formato de matriz, seguindo o formato abaixo (também comentado no próprio código)
   ```
-  [[item, quantidade do item, valor unitário], ..., [item, quantidade do item, valor unitário]]
+  [[item, quantidade_do_item, valor_unitário], ..., [item, quantidade_do_item, valor_unitário]]
   ```
   **Obs.: respeitar esta formatação, caso contrário o resultado não será conforme o esperado.**
   
